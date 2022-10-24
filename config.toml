@@ -1,4 +1,4 @@
-baseurl = "https://www.vincentmichalke.de"
+baseurl = "https://vincentmichalke.de"
 title = "Vincent Michalke"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
