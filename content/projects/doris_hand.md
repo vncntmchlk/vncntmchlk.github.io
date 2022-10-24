@@ -1,6 +1,5 @@
 +++
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
 image = "img/doris_hand.jpg"
 title = "Doris' Hand"
 draft = false

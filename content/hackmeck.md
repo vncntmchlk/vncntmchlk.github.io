@@ -2,7 +2,6 @@
 showonlyimage = false
 draft = false
 image = "img/hackmeck/hackmeck_bitrot.jpg"
-date = "2016-11-05T18:25:22+05:30"
 title = "About Hackmeck"
 weight = 0
 +++
