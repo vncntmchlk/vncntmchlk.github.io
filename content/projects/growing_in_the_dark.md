@@ -17,10 +17,17 @@ This video was released as part of the concert series POLYMER by ON - Neue Musik
 
 *Fractals. Iterations. Modularity. Three computers connect into a meta instrument. In division of labour, meta data is fed into the circuit. A willfull algorithmic DNA developed from scratch creates a lively, mutant, decentralised network. Visual structures translate into sound translate into visualizations of their hidden circuitry. Benjamin Grau, Vincent Michalke, Philipp Lack are Hackmeck.*
 
-Videoproduction, Editing - Nazgol Emami \
-Camera - Nora Daniel \
-Sound, Mastering - Marcus Zilz \
-Project manager - Helene Heuser \
-Music, Visuals - Hackmeck 
+>Videoproduction, Editing - Nazgol Emami \
+>Camera - Nora Daniel \
+>Sound, Mastering - Marcus Zilz \
+>Project manager - Helene Heuser \
+>Music, Visuals - Hackmeck 
 
 Recorded 15/07/21 @ Labor Ebertplatz
+
+![foto][1]
+<sub>Foto: Nazgol Emami</sub>
+
+*Hackmeck is supported by Musikfonds e.V., Neustart Kultur and Die Beauftragte der Bundesregierung für Kultur und Medien.*
+
+[1]: /img/hackmeck/hackmeck_growing.jpg
