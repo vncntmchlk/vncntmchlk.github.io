@@ -2,6 +2,11 @@
 title = "List of works"
 +++
 
+#### 2023
+
+>##### Friendly Hunting music
+>Music for the dance piece Friendly Hunting by Flying Elephant
+
 #### 2022
 
 >##### Hackmeck x Sarah Heemann - Treefinger's Breeze

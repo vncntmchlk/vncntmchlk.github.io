@@ -13,7 +13,6 @@ Hackmeck is a Laptop Trio founded by Philipp Lack, Benjamin Grau and Vincent Mic
 
 #### Hackmeck projects
 >**Treefingers' Breeze** (2022), audiovisual performance with flutist Sarah Heemann  
->*upcoming concert: 10.12.2022, Artheater Cologne*
 
 >**bitrot** (2022), audiovisual performance  
 
