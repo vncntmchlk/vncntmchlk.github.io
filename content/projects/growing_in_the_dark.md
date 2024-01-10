@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/hackmeck/hackmeck_growing.jpg"
 title = "Hackmeck - Growing in the Dark"
-weight = 2
+weight = 10
 +++
 
 Exploring fractals in an audio-visual music video (2021)

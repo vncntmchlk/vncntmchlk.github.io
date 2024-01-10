@@ -3,7 +3,7 @@ showonlyimage = false
 image = "img/doris_hand.jpg"
 title = "Doris' Hand"
 draft = false
-weight = 5
+weight = 12
 +++
 
 Live-electronics performance in collaboration with dancer/violinist iSaAc EH  (2018-)

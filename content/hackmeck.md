@@ -12,7 +12,7 @@ Hackmeck is a Laptop Trio founded by Philipp Lack, Benjamin Grau and Vincent Mic
 [Hackmeck](https://hackmeck.eu/) is made up of three Computer-Musicians from Cologne. We perform audio-visual pieces with our diy electronic instruments. These create a Meta-Instrument where each of us is controlling different parameters of the music.
 
 #### Hackmeck projects
->**Treefingers' Breeze** (2022), audiovisual performance with flutist Sarah Heemann  
+>**Treefingers' Breeze** (2022), audiovisual performance with flutist Sarah Heemann [more info]({{< ref "/projects/treefingers" >}})  
 
 >**bitrot** (2022), audiovisual performance  
 

@@ -7,6 +7,10 @@ title = "List of works"
 >##### Friendly Hunting music
 >Music for the dance piece Friendly Hunting by Flying Elephant
 
+>##### Ultramarine Sway music
+>Music for the dance performance Ultramarine Sway by the dance company TachoTinta  
+>[More info]({{< ref "/projects/ultramarine" >}})
+
 #### 2022
 
 >##### Hackmeck x Sarah Heemann - Treefinger's Breeze

@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/hackmeck/hackmeck_self-assemblers.jpg"
 title = "hackmeck - self-assemblers"
-weight = 3
+weight = 10
 +++
 
 Music video performance with self-made instruments (2021)

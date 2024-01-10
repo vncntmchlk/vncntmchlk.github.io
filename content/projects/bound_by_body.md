@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/bound-by-body-poster.jpeg"
 title = "Music for Bound by Body"
-weight = 2
+weight = 5
 +++
 
 Dancefilm by Minkyou Yoo, Seulki Hwang and Florian Entenfellner  (2021)
