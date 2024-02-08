@@ -12,7 +12,7 @@ Music for dance theater "Ultramarine Sway" by TachoTinta (2023)
 
 
 
-In 2023 I collaborated with the dance company TachoTinta to created the music pieces for their piece "Ultramarine Sway". Some excerpts:
+In 2023 I collaborated with the dance company TachoTinta to create the music for their piece "Ultramarine Sway". Some excerpts:
 
 - Ultramarine Sway - Corals {{<audio src="/audio/ultramarine/coral.mp3" caption="" >}}
 - Ultramarine Sway - Fishes {{<audio src="/audio/ultramarine/fishes 1.mp3" caption="" >}}
