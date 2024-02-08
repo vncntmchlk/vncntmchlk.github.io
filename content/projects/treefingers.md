@@ -10,7 +10,7 @@ Audiovisual performance with flutist Sarah Heemann (2022)
 <!--more-->
 
 #### Hackmeck - Treefingers' breeze
-In this collaboration the sound of flutist Sarah Heemann is woven into this music generating signal flow of Hackmeck. 
+In this collaboration the sound of flutist Sarah Heemann is woven into the music generating signal flow of Hackmeck. 
 Here are some audio excerpts from the premiere at ON Cologne:
 {{<audio src="/audio/snippets/treefingers snippet 14.mp3" caption="" >}}
 {{<audio src="/audio/snippets/treefingers snippet 11.mp3" caption="" >}}
