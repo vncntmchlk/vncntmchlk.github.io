@@ -31,7 +31,8 @@ title = "List of works"
 
 >##### Voice Implant  
 >Voice, live-electronics and visualisation    
->*Premiered by Sophia Körber (voice) at IMAGINARY REAL, 09.10.2021, Sprengel Museum Hannover*
+>*Premiered by Sophia Körber (voice) at IMAGINARY REAL, 09.10.2021, Sprengel Museum Hannover*  
+>[More info]({{< ref "/projects/voice_implant" >}})
 
 >##### Hackmeck - self-assemblers
 >Music video performance with self-made instruments  
