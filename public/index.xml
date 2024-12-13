@@ -2,121 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vincent Michalke</title>
-    <link>https://vincentmichalke.de/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vincent Michalke</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vincentmichalke.de/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hackmeck - Growing in the Dark</title>
-      <link>https://vincentmichalke.de/projects/growing_in_the_dark/</link>
+      <title>Music for Ultramarine Sway</title>
+      <link>http://localhost:1313/projects/ultramarine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/growing_in_the_dark/</guid>
-      <description>&lt;p&gt;Exploring fractals in an audio-visual music video (2021)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/ultramarine/</guid>
+      <description>&lt;p&gt;Music for dance theater &amp;ldquo;Ultramarine Sway&amp;rdquo; by TachoTinta (2023)&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Music for Bound by Body</title>
-      <link>https://vincentmichalke.de/projects/bound_by_body/</link>
+      <title>Hackmeck - Treefingers&#39; Breeze</title>
+      <link>http://localhost:1313/projects/treefingers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/bound_by_body/</guid>
-      <description>&lt;p&gt;Dancefilm by Minkyou Yoo, Seulki Hwang and Florian Entenfellner  (2021)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/treefingers/</guid>
+      <description>&lt;p&gt;Audiovisual performance with flutist Sarah Heemann (2022)&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>hackmeck - self-assemblers</title>
-      <link>https://vincentmichalke.de/projects/self_assemblers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/self_assemblers/</guid>
-      <description>&lt;p&gt;Music video performance with self-made instruments (2021)&lt;/p&gt;</description>
-    </item>
-    
     <item>
       <title>Music for commonnorm</title>
-      <link>https://vincentmichalke.de/projects/commonnorm/</link>
+      <link>http://localhost:1313/projects/commonnorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/commonnorm/</guid>
+      <guid>http://localhost:1313/projects/commonnorm/</guid>
       <description>&lt;p&gt;Music for dance theater &amp;ldquo;commonnorm&amp;rdquo; by TachoTinta (2022)&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Music for Bound by Body</title>
+      <link>http://localhost:1313/projects/bound_by_body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bound_by_body/</guid>
+      <description>&lt;p&gt;Dancefilm by Minkyou Yoo, Seulki Hwang and Florian Entenfellner  (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voice Implant</title>
+      <link>http://localhost:1313/projects/voice_implant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/voice_implant/</guid>
+      <description>&lt;p&gt;Piece for voice, live-electronics and visualisation (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackmeck - Growing in the Dark</title>
+      <link>http://localhost:1313/projects/growing_in_the_dark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/growing_in_the_dark/</guid>
+      <description>&lt;p&gt;Exploring fractals in an audio-visual music video (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hackmeck - self-assemblers</title>
+      <link>http://localhost:1313/projects/self_assemblers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/self_assemblers/</guid>
+      <description>&lt;p&gt;Music video performance with self-made instruments (2021)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Doris&#39; Hand</title>
-      <link>https://vincentmichalke.de/projects/doris_hand/</link>
+      <link>http://localhost:1313/projects/doris_hand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/doris_hand/</guid>
+      <guid>http://localhost:1313/projects/doris_hand/</guid>
       <description>&lt;p&gt;Live-electronics performance in collaboration with dancer/violinist iSaAc EH  (2018-)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Music for Cultural Drag</title>
-      <link>https://vincentmichalke.de/projects/cultural_drag/</link>
+      <link>http://localhost:1313/projects/cultural_drag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/cultural_drag/</guid>
+      <guid>http://localhost:1313/projects/cultural_drag/</guid>
       <description>&lt;p&gt;Music for dance performance &amp;ldquo;Cultural Drag&amp;rdquo; by TachoTinta (2020)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About Hackmeck</title>
-      <link>https://vincentmichalke.de/hackmeck/</link>
+      <link>http://localhost:1313/hackmeck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/hackmeck/</guid>
+      <guid>http://localhost:1313/hackmeck/</guid>
       <description>&lt;p&gt;Hackmeck is a Laptop Trio founded by Philipp Lack, Benjamin Grau and Vincent Michalke in 2020.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Datenschutz</title>
-      <link>https://vincentmichalke.de/datenschutz/</link>
+      <link>http://localhost:1313/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/datenschutz/</guid>
-      <description>Datenschutz­erklärung
-Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung. Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website?
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+      <guid>http://localhost:1313/datenschutz/</guid>
+      <description>&lt;p&gt;Datenschutz­erklärung&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Datenschutz auf einen Blick&#xA;Allgemeine Hinweise&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.&#xA;Datenerfassung auf dieser Website&#xA;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/p&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.&#xA;Wie erfassen wir Ihre Daten?&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>felt cute might release later</title>
+      <link>http://localhost:1313/feltcute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/feltcute/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;spiral &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/spiral.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;static &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/static.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;nano &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/nano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Impressum</title>
-      <link>https://vincentmichalke.de/impressum/</link>
+      <link>http://localhost:1313/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/impressum/</guid>
-      <description>Vincent Michalke
-Postanschrift: Vincent Michalke
-An Groß St. Martin 2
-50667 Köln
-Kontakt: E-Mail: vincent.michalke@gmail.com</description>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;p&gt;Vincent Michalke&lt;/p&gt;&#xA;&lt;h5 id=&#34;postanschrift&#34;&gt;Postanschrift:&lt;/h5&gt;&#xA;&lt;p&gt;Vincent Michalke&lt;br&gt;&#xA;An Groß St. Martin 2&lt;br&gt;&#xA;50667 Köln&lt;/p&gt;&#xA;&lt;h5 id=&#34;kontakt&#34;&gt;Kontakt:&lt;/h5&gt;&#xA;&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:vincent.michalke@gmail.com&#34;&gt;vincent.michalke@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>List of works</title>
-      <link>https://vincentmichalke.de/list_of_works/</link>
+      <link>http://localhost:1313/list_of_works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/list_of_works/</guid>
-      <description>2023 Friendly Hunting Music Music for the dance piece Friendly Hunting by Flying Elephant
-2022 Hackmeck x Sarah Heemann - Treefinger&amp;rsquo;s Breeze Audiovisual performance with flutist Sarah Heemann
-commonnorm music Music for the dance performance commonnorm by the dance company TachoTinta
-More info
-Hackmeck - bitrot Audiovisual performance. Premiered at Achtbrücken Festival Köln
-2021 Hackmeck - growing in the dark Exploring fractals in an audio-visual music video
-More info
-Voice Implant Voice, live-electronics and visualisation Premiered by Sophia Körber (voice) at IMAGINARY REAL, 09.</description>
+      <guid>http://localhost:1313/list_of_works/</guid>
+      <description>&lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;friendly-hunting-music&#34;&gt;Friendly Hunting music&lt;/h5&gt;&#xA;&lt;p&gt;Music for the dance piece Friendly Hunting by Flying Elephant&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;ultramarine-sway-music&#34;&gt;Ultramarine Sway music&lt;/h5&gt;&#xA;&lt;p&gt;Music for the dance performance Ultramarine Sway by the dance company TachoTinta&lt;br&gt;&#xA;&lt;a href=&#34;http://localhost:1313/projects/ultramarine/&#34;&gt;More info&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;hackmeck-x-sarah-heemann---treefingers-breeze&#34;&gt;Hackmeck x Sarah Heemann - Treefinger&amp;rsquo;s Breeze&lt;/h5&gt;&#xA;&lt;p&gt;Audiovisual performance with flutist Sarah Heemann&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;commonnorm-music&#34;&gt;commonnorm music&lt;/h5&gt;&#xA;&lt;p&gt;Music for the dance performance commonnorm by the dance company TachoTinta&lt;br&gt;&#xA;&lt;a href=&#34;http://localhost:1313/projects/commonnorm/&#34;&gt;More info&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;hackmeck---bitrot&#34;&gt;Hackmeck - bitrot&lt;/h5&gt;&#xA;&lt;p&gt;Audiovisual performance. Premiered at Achtbrücken Festival Köln&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;2021&#34;&gt;2021&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h5 id=&#34;hackmeck---growing-in-the-dark&#34;&gt;Hackmeck - growing in the dark&lt;/h5&gt;&#xA;&lt;p&gt;Exploring fractals in an audio-visual music video&lt;br&gt;&#xA;&lt;a href=&#34;http://localhost:1313/projects/growing_in_the_dark/&#34;&gt;More info&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;p&gt;Here is a selection of snippets first from my compositions for dance pieces and second from my experimental and research works.&#xA;제가 작업한 무용 작품의 일부를 채취한 샘플들 입니다. 다음으로는 제가 실험하고 리서치한 작품들의 샘플 입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;electronic-music-compositions-for-dance-pieces&#34;&gt;Electronic music compositions for dance pieces&lt;/h3&gt;&#xA;&lt;h3 id=&#34;무용작품과-작업한-샘플들&#34;&gt;무용작품과 작업한 샘플들&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;tachotinta--commonnorm-2022&#34;&gt;TachoTinta / commonnorm (2022)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Moving Tables &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/moving_tables_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Running &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/running_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Zig Zag &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/zig_zag_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;flying-elephant-20232022&#34;&gt;Flying Elephant (2023/2022)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Friendly Hunting &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/friendly%20hunting.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Loose Connection &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/loose%20connection.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;tachotinta--ultramarine-sway-2023&#34;&gt;TachoTinta / Ultramarine Sway (2023)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Coral &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/ultramarine/coral.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Fishes &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/ultramarine/fishes%201.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;bound-by-body--dancefilm-2021&#34;&gt;Bound by Body / Dancefilm (2021)&lt;/h4&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ghv25vW3-gs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;tachotinta--cultural-drag-2020&#34;&gt;TachoTinta / Cultural Drag (2020)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yellow twins &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/cultural_drag/yellow_twins_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experimental-and-research-works--실험-및-연구-작업&#34;&gt;Experimental and research works // 실험 및 연구 작업&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;hackmeck--treefingers-breeze-2022&#34;&gt;Hackmeck / treefingers&amp;rsquo; breeze (2022)&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I want to show specific examples of machine learning algorithms used in this performance.&#xA;First is imitation and variation of the flute by a neural net controlled synthesizer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio DIMA</title>
+      <link>http://localhost:1313/dima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dima/</guid>
+      <description>&lt;p&gt;Here is a selection of excerpts from my compositions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;commonnorm, moving tables (style: atmosphere, dark) &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/moving_tables_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;commonnorm, club insomnia (style: techno, dark) &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/club_insomnia.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;ultramarine sway, corals (style: industrial, heavy) &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/ultramarine/coral.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;loose connection (style: downtempo, percussion) &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/loose_connection.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio Pozalabs</title>
+      <link>http://localhost:1313/portfolio_pozalabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio_pozalabs/</guid>
+      <description>&lt;p&gt;Here is a selection of snippets first from my compositions for dance pieces and second from my experimental and research works.&#xA;제가 작업한 무용 작품의 일부를 채취한 샘플들 입니다. 다음으로는 제가 실험하고 리서치한 작품들의 샘플 입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;electronic-music-compositions-for-dance-pieces&#34;&gt;Electronic music compositions for dance pieces&lt;/h3&gt;&#xA;&lt;h3 id=&#34;무용작품과-작업한-샘플들&#34;&gt;무용작품과 작업한 샘플들&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;tachotinta--commonnorm-2022&#34;&gt;TachoTinta / commonnorm (2022)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Moving Tables &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/moving_tables_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Running &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/running_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Zig Zag &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/commonnorm/zig_zag_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;flying-elephant-20232022&#34;&gt;Flying Elephant (2023/2022)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Friendly Hunting &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/friendly%20hunting.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Loose Connection &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/snippets/loose%20connection.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;tachotinta--ultramarine-sway-2023&#34;&gt;TachoTinta / Ultramarine Sway (2023)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Coral &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/ultramarine/coral.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;li&gt;Fishes &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/ultramarine/fishes%201.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;bound-by-body--dancefilm-2021&#34;&gt;Bound by Body / Dancefilm (2021)&lt;/h4&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ghv25vW3-gs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;tachotinta--cultural-drag-2020&#34;&gt;TachoTinta / Cultural Drag (2020)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yellow twins &lt;figure &gt;&#xA;    &lt;audio controls preload=&#34;metadata&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/audio/cultural_drag/yellow_twins_excerpt.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;    &lt;/audio&gt;&#xA;    &#xA;  &lt;/figure&gt;&#xA;  &#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experimental-and-research-works--실험-및-연구-작업&#34;&gt;Experimental and research works // 실험 및 연구 작업&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;hackmeck--treefingers-breeze-2022&#34;&gt;Hackmeck / treefingers&amp;rsquo; breeze (2022)&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I want to show specific examples of machine learning algorithms used in this performance.&#xA;First is imitation and variation of the flute by a neural net controlled synthesizer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vita</title>
-      <link>https://vincentmichalke.de/vita/</link>
+      <link>http://localhost:1313/vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/vita/</guid>
-      <description>Vincent Michalke (*1991, Oldenburg) is a composer and computer musician based in Cologne. His focus is on live electronics and interdisciplinary collaborations, especially in the field of music-dance. He has worked several times with the dance company TachoTinta, for example composing the music for the dance theater Cultural Drag (2020) and commonnorm (2022). In 2020, together with Benjamin Grau and Philipp Lack, he founded &amp;ldquo;Hackmeck&amp;rdquo;, a networked laptop trio that sees itself as a music-generating organism.</description>
+      <guid>http://localhost:1313/vita/</guid>
+      <description>&lt;p&gt;Vincent Michalke (*1991, Oldenburg) is a composer and computer musician based in Cologne. His focus is on live electronics and interdisciplinary collaborations, especially in the field of music-dance. He has worked several times with the dance company TachoTinta, for example composing the music for the dance theater Cultural Drag (2020) and commonnorm (2022). In 2020, together with Benjamin Grau and Philipp Lack, he founded &amp;ldquo;Hackmeck&amp;rdquo;, a networked laptop trio that sees itself as a music-generating organism. Together they produced music videos and performed live, including at the Achtbrücken Festival 2022 in Cologne. Vincent Michalke studied composition (BA) and electronic composition (MA) in Hannover, Cologne and Frankfurt.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

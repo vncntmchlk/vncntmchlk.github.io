@@ -2,36 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vincentmichalke.de/projects/growing_in_the_dark/</loc>
+    <loc>http://localhost:1313/projects/ultramarine/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/bound_by_body/</loc>
+    <loc>http://localhost:1313/projects/treefingers/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/self_assemblers/</loc>
+    <loc>http://localhost:1313/projects/commonnorm/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/commonnorm/</loc>
+    <loc>http://localhost:1313/projects/bound_by_body/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/doris_hand/</loc>
+    <loc>http://localhost:1313/projects/voice_implant/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/cultural_drag/</loc>
+    <loc>http://localhost:1313/projects/growing_in_the_dark/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/hackmeck/</loc>
+    <loc>http://localhost:1313/projects/self_assemblers/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/about/</loc>
+    <loc>http://localhost:1313/projects/doris_hand/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/categories/</loc>
+    <loc>http://localhost:1313/projects/cultural_drag/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/datenschutz/</loc>
+    <loc>http://localhost:1313/hackmeck/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/impressum/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/list_of_works/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/projects/</loc>
+    <loc>http://localhost:1313/datenschutz/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/tags/</loc>
+    <loc>http://localhost:1313/feltcute/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
   </url><url>
-    <loc>https://vincentmichalke.de/vita/</loc>
+    <loc>http://localhost:1313/list_of_works/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dima/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio_pozalabs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/vita/</loc>
   </url>
 </urlset>

@@ -2,63 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Vincent Michalke</title>
-    <link>https://vincentmichalke.de/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Vincent Michalke</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vincentmichalke.de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hackmeck - Growing in the Dark</title>
-      <link>https://vincentmichalke.de/projects/growing_in_the_dark/</link>
+      <title>Music for Ultramarine Sway</title>
+      <link>http://localhost:1313/projects/ultramarine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/growing_in_the_dark/</guid>
-      <description>&lt;p&gt;Exploring fractals in an audio-visual music video (2021)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/ultramarine/</guid>
+      <description>&lt;p&gt;Music for dance theater &amp;ldquo;Ultramarine Sway&amp;rdquo; by TachoTinta (2023)&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Music for Bound by Body</title>
-      <link>https://vincentmichalke.de/projects/bound_by_body/</link>
+      <title>Hackmeck - Treefingers&#39; Breeze</title>
+      <link>http://localhost:1313/projects/treefingers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/bound_by_body/</guid>
-      <description>&lt;p&gt;Dancefilm by Minkyou Yoo, Seulki Hwang and Florian Entenfellner  (2021)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/treefingers/</guid>
+      <description>&lt;p&gt;Audiovisual performance with flutist Sarah Heemann (2022)&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>hackmeck - self-assemblers</title>
-      <link>https://vincentmichalke.de/projects/self_assemblers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/self_assemblers/</guid>
-      <description>&lt;p&gt;Music video performance with self-made instruments (2021)&lt;/p&gt;</description>
-    </item>
-    
     <item>
       <title>Music for commonnorm</title>
-      <link>https://vincentmichalke.de/projects/commonnorm/</link>
+      <link>http://localhost:1313/projects/commonnorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/commonnorm/</guid>
+      <guid>http://localhost:1313/projects/commonnorm/</guid>
       <description>&lt;p&gt;Music for dance theater &amp;ldquo;commonnorm&amp;rdquo; by TachoTinta (2022)&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Music for Bound by Body</title>
+      <link>http://localhost:1313/projects/bound_by_body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bound_by_body/</guid>
+      <description>&lt;p&gt;Dancefilm by Minkyou Yoo, Seulki Hwang and Florian Entenfellner  (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voice Implant</title>
+      <link>http://localhost:1313/projects/voice_implant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/voice_implant/</guid>
+      <description>&lt;p&gt;Piece for voice, live-electronics and visualisation (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackmeck - Growing in the Dark</title>
+      <link>http://localhost:1313/projects/growing_in_the_dark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/growing_in_the_dark/</guid>
+      <description>&lt;p&gt;Exploring fractals in an audio-visual music video (2021)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hackmeck - self-assemblers</title>
+      <link>http://localhost:1313/projects/self_assemblers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/self_assemblers/</guid>
+      <description>&lt;p&gt;Music video performance with self-made instruments (2021)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Doris&#39; Hand</title>
-      <link>https://vincentmichalke.de/projects/doris_hand/</link>
+      <link>http://localhost:1313/projects/doris_hand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/doris_hand/</guid>
+      <guid>http://localhost:1313/projects/doris_hand/</guid>
       <description>&lt;p&gt;Live-electronics performance in collaboration with dancer/violinist iSaAc EH  (2018-)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Music for Cultural Drag</title>
-      <link>https://vincentmichalke.de/projects/cultural_drag/</link>
+      <link>http://localhost:1313/projects/cultural_drag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentmichalke.de/projects/cultural_drag/</guid>
+      <guid>http://localhost:1313/projects/cultural_drag/</guid>
       <description>&lt;p&gt;Music for dance performance &amp;ldquo;Cultural Drag&amp;rdquo; by TachoTinta (2020)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
