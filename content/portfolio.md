@@ -10,6 +10,13 @@ Here is a selection of snippets first from my compositions for dance pieces and 
 ### 무용작품과 작업한 샘플들
 
 ---
+#### 댑댄스 / MARS 151 (2025)
+
+- Intro {{<audio src="/audio/mars_project/intro.mp3" caption="" >}}
+- Nostalgia {{<audio src="/audio/mars_project/nostalgia.mp3" caption="" >}}
+- Disco {{<audio src="/audio/mars_project/disco.mp3" caption="" >}}
+
+
 #### TachoTinta / commonnorm (2022)
 
 - Moving Tables {{<audio src="/audio/commonnorm/moving_tables_excerpt.mp3" caption="" >}}
