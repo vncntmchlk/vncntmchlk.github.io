@@ -7,11 +7,11 @@ title = "List of works"
 
 >##### White Hole
 >Organ + fixed media
->Premiered at 'ceci n'est pas une pipe' (이것은 파이프가 아니다)
+>Premiered at 'ceci n'est pas une pipe' (이것은 파이프가 아니다), 29.12.2025, Sungkyul University Memorial Hall
 
 >##### My new Ritual
 >Live-electronics performance with toys
->Premiered at '5th INO Concert'
+>Premiered at '5th INO Concert', 02.12.2025, Ilshin Hall
 
 >##### MARS 151 music
 >Music for the dance performance by dabdance (댑댄스).
