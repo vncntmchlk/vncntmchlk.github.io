@@ -2,6 +2,21 @@
 title = "List of works"
 +++
 
+
+#### 2025
+
+>##### White Hole
+>Organ + fixed media
+>Premiered at 'ceci n'est pas une pipe' (이것은 파이프가 아니다)
+
+>##### My new Ritual
+>Live-electronics performance with toys
+>Premiered at '5th INO Concert'
+
+>##### MARS 151 music
+>Music for the dance performance by dabdance (댑댄스).
+>live-electronics + fixed media
+
 #### 2023
 
 >##### Friendly Hunting music
